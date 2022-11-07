@@ -12,7 +12,8 @@
 				"platform=windows",
 				"target=debug",
 				"-j",
-				"4"
+				"4",
+				"custom_modules=../wlwl2-godot-custom-modules"
 			],
 			"problemMatcher": "$msCompile"
 		}
