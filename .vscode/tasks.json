@@ -9,7 +9,7 @@
 			"type": "shell",
 			"command": "scons",
 			"args": [
-				"platform=x11",
+				"platform=windows",
 				"target=debug",
 				"-j",
 				"4"
