@@ -26,6 +26,7 @@
 		<method name="test">
 			<return type="String" />
 			<description>
+				THIS IS A TEST!!!!
 			</description>
 		</method>
 	</methods>
